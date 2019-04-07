@@ -1,0 +1,9 @@
+.idea
+
+.env
+
+*.pyc
+
+app_logs
+
+dist

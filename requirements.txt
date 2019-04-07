@@ -1,0 +1,9 @@
+configobj==5.0.6
+Flask==1.0.2
+Flask-JWT-Extended[asymmetric_crypto]==3.16.0
+gevent==1.3.7
+gunicorn==19.9.0
+pylint==2.1.1
+python-dotenv==0.10.1
+redis==2.10.6
+wheel==0.32.3
